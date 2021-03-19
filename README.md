@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @norbertwg  
+- I am the author of QuickImageComment
